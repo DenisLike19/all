@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\ConsoleApp31\bin\Debug\net7.0\ConsoleApp31.exe
+C:\Users\student\source\repos\ConsoleApp31\bin\Debug\net7.0\ConsoleApp31.deps.json
+C:\Users\student\source\repos\ConsoleApp31\bin\Debug\net7.0\ConsoleApp31.runtimeconfig.json
+C:\Users\student\source\repos\ConsoleApp31\bin\Debug\net7.0\ConsoleApp31.dll
+C:\Users\student\source\repos\ConsoleApp31\bin\Debug\net7.0\ConsoleApp31.pdb
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.AssemblyInfo.cs
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.dll
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\refint\ConsoleApp31.dll
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.pdb
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ConsoleApp31.genruntimeconfig.cache
+C:\Users\student\source\repos\ConsoleApp31\obj\Debug\net7.0\ref\ConsoleApp31.dll
